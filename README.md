@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofexbk&show_icons=true&locale=en&layout=compact" alt="sofexbk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofexbk&show_icons=true&locale=en" alt="sofexbk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofexbk&" alt="sofexbk" /></p>
