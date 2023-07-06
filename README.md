@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soufian Bouktaib</h1>
 <h3 align="center">Computer science student</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sofexbk&label=Profile%20views&color=0e75b6&style=flat" alt="sofexbk" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofexbk" alt="sofexbk" /></a> </p>
 
 - 🌱 I’m currently learning **web development , and programming**
@@ -9,11 +11,9 @@
 
 - 📫 How to reach me **soufianbouktaib1@gmail.com**
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soufian-bouktaib-446654169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soufian-bouktaib/" height="30" width="40" /></a>
+<a href="//www.linkedin.com/in/soufian-bouktaib-446654169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soufian-bouktaib-446654169/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
