@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **web development , and programming**
 
-- 💬 Ask me about **Angular,Spring boot ...**
+- 💬 Ask me about **Vuejs,ReactJs...**
 
 - 📫 How to reach me **soufianbouktaib1@gmail.com**
 
