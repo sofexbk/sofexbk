@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofexbk" alt="sofexbk" /></a> </p>
 
-- 🌱 I’m currently learning **microservices, data and ai** 
+- 🌱 I’m currently learning **anything in IT** 
 
-- 💬 Ask me about **Vuejs,ReactJs,Java...**
+- 💬 Ask me about **VueJs,ReactJs,Java...**
 
 - 📫 How to reach me **soufianbouktaib1@gmail.com**
 
